@@ -1,2 +1,1 @@
-# coding-cases
-Simple programs
+# visuals
